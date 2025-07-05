@@ -1,0 +1,13 @@
+Package: tgqu
+Architecture: all
+Version: 2.0
+Maintainer: Gemini <gemini@google.com>
+Depends: python
+Filename: ./tgqu_2.0_all.deb
+Size: 18376
+MD5sum: 1162b5019a177c85c55d37ae604c4693
+SHA1: 6cc8d11502c7355800155a5d329563bff61ba6d2
+SHA256: d462d56ad5cf612f083a1625c65bd8d45a31211c0e3bf4b42c4f30b9ccefadbb
+SHA512: 4bc2a7ff6cee46c937214a8f1b39dd5fc5712cc6a6f770830d5175951dc2859789067bb774a3fb1f3152e8e269676c02f2877047f78f3a113dfa6a27af738f5e
+Description: Automated Telegram Signal Trader for Quotex.
+
